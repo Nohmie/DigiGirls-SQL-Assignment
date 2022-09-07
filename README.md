@@ -14,5 +14,6 @@ Here I explore the dvdrental database which holds information on the stores, inv
 12. What movies are offered for rent in any of the two stores 1 and 2?
 13. What movies are offered in both stores at the same time?
 14. Display the movie title for the most rented movie in the store with store_id 1
-15. How many rented movies are under each rating?
-16. How much profit have each of the stores 1 and 2 gained?
+15. How many movies are not offered for rent in the stores yet?
+16. How many rented movies are under each rating?
+17. How much profit have each of the stores 1 and 2 gained?
